@@ -3,10 +3,10 @@
     'name': "UUDP Menu Hidden 2.0",
 
     'summary': """
-        Menyembunyikan menu pencairan parsial""",
+        Menyembunyikan menu pencairan parsial & batches""",
 
     'description': """
-        Long description of module's purpose
+        Upgrade VIT_UUDP Setelah Install Addon ini
     """,
 
     'author': "Iqbal Abdurrahman",
